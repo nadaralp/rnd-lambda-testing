@@ -1,0 +1,26 @@
+html {
+    background-color: pink;
+}
+
+.mail-content {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+a {
+    color: purple;
+}
+
+p {
+    color: salmon;
+}
